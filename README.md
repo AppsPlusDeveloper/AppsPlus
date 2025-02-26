@@ -6,5 +6,5 @@
 
 <a href="https://appsplusdeveloper.github.io/AppsPlus/Business/Home">Apps + Business</a> /
 
-<a href="#">Apps + Projects</a>
+<a href="https://appsplusdeveloper.github.io/AppsPlus/Projects/Home">Apps + Projects</a>
 </center>
